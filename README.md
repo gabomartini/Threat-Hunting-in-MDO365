@@ -4,9 +4,9 @@
 </p>
 
 #### *In this tutorial, we will:*
-*- Learn how to search for and locate malicious emails with Microsoft Defender.*
+*•	Search for and locate malicious emails using Microsoft Defender.*
 
-*- Learn how to utilize PowerShell to remove malicious emails from an organization.*
+*•	Utilize PowerShell to mass delete malicious emails from an organization.*
 
 #### Tasks:
  1. Examine suspicious emails.
